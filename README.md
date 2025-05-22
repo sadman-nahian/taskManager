@@ -22,6 +22,6 @@ A simple task manager built with **React** and **Firebase** that supports:
 
 ---
 ##  video walkthrough
-<img src="./demo3.gif">
+<img src="./src/demo3.gif">
 
 
